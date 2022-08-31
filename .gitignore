@@ -2,6 +2,9 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Build
+Plugins/MultiplayerSessions/Intermediate
+Plugins/MultiplayerSessions/Binaries
 .vscode
 .vs
 *.VC.db
